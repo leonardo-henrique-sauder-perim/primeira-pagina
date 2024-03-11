@@ -1,0 +1,18 @@
+*{
+    MARGIN: 0;
+
+}
+header{
+    background-color: white;
+}
+
+main{background-color: darkgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(214, 204, 62);
+}
